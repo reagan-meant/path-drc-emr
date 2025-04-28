@@ -1,0 +1,20 @@
+version: "3.7"
+
+secrets:
+  m2settings:
+    file: /Users/neith/.m2/settings.xml
+
+services:
+  gateway:
+    build:
+      context: ./gateway
+
+  frontend:
+    build:
+      context: ./frontend
+
+  backend:
+    build:
+      secrets:
+        - m2settings
+      context: .
