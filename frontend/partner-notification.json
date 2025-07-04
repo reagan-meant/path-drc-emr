@@ -98,13 +98,13 @@
                                         "title": "actionsTitle",
                                         "actionOptions": [
                                             {
-                                                "formName": "Contact Tracing Form",
+                                                "formName": "DRC Case Contact Form v1.1",
                                                 "package": "hiv-care-treatment",
                                                 "label": "viewDetails",
                                                 "mode": "view"
                                             },
                                             {
-                                                "formName": "Contact Tracing Form",
+                                                "formName": "DRC Case Contact Form v1.1",
                                                 "package": "hiv-care-treatment",
                                                 "label": "editForm",
                                                 "mode": "edit"
@@ -117,7 +117,7 @@
                                 },
                                 "formList": [
                                     {
-                                        "uuid": "b805f13b-f299-39c1-87e8-9ab5bbdcd517"
+                                        "uuid": "4c7b0655-6a2a-3582-823c-1ec754558364"
                                     }
                                 ]
                             }
