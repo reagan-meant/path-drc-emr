@@ -42,20 +42,20 @@
                                     {
                                         "id": "populationCategory",
                                         "title": "populationCategoryTitle",
-                                        "concept": "166432AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                                        "concept": "746737c0-4201-4d7f-b580-816e36dc425a"
                                     },
                                     {
                                         "id": "actions",
                                         "title": "actionsTitle",
                                         "actionOptions": [
                                             {
-                                                "formName": "HIV Enrolment Form",
+                                                "formName": "DRC HIV Enrolment Form 1.2",
                                                 "package": "hiv-care-treatment",
                                                 "label": "viewDetails",
                                                 "mode": "view"
                                             },
                                             {
-                                                "formName": "HIV Enrolment Form",
+                                                "formName": "DRC HIV Enrolment Form 1.2",
                                                 "package": "hiv-care-treatment",
                                                 "label": "editForm",
                                                 "mode": "edit"
@@ -360,8 +360,8 @@
                                 "enrollment/Re-enrollmentDate": "Enrollment/Re-enrollment Date",
                                 "patientTypeAtEnrollment": "Patient Type at Enrollment",
                                 "dateConfirmedHIVPositive": "Date confirmed HIV+",
-                                "entryPoint": "Entry Point",
-                                "populationCategory": "Population Category",
+                                "entryPointTitle": "Entry Point",
+                                "populationCategoryTitle": "Population Category",
                                 "aRTTherapy": "ART Therapy",
                                 "date": "Date",
                                 "therapyPlanTitle": "Therapy Plan",
@@ -394,8 +394,8 @@
                                 "enrollment/Re-enrollmentDate": "Date d'inscription/réinscription",
                                 "patientTypeAtEnrollment": "Type de patient à l'inscription",
                                 "dateConfirmedHIVPositive": "Date confirmée VIH+",
-                                "entryPoint": "Point d'entrée",
-                                "populationCategory": "Catégorie de population",
+                                "entryPointTitle": "Point d'entrée",
+                                "populationCategoryTitle": "Catégorie de population",
                                 "aRTTherapy": "Thérapie antirétrovirale",
                                 "date": "Date",
                                 "therapyPlanTitle": "Plan de thérapie",
