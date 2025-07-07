@@ -24,11 +24,6 @@
                                         ]
                                     },
                                     {
-                                        "id": "clientDescription",
-                                        "title": "patientTypeAtEnrollment",
-                                        "concept": "166937AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-                                    },
-                                    {
                                         "id": "dateConfirmedPositive",
                                         "isDate": true,
                                         "title": "dateConfirmedHIVPositive",
@@ -101,11 +96,6 @@
                                             "Stop ART": "1260AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                                             "Restart ART therapy": "162904AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                         }
-                                    },
-                                    {
-                                        "id": "regimen",
-                                        "title": "regimenTitle",
-                                        "concept": "dfbe256e-30ba-4033-837a-2e8477f2e7cd"
                                     },
                                     {
                                         "id": "regimenInitiated",
@@ -267,12 +257,12 @@
                                     {
                                         "id": "contactMethod",
                                         "title": "contactMethodTitle",
-                                        "concept": "59c023dd-eed2-4b11-8c34-b88e9439db3c"
+                                        "concept": "166456AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                     },
                                     {
                                         "id": "contactOutcome",
                                         "title": "contactOutcomeTitle",
-                                        "concept": "bc45edbd-11e7-4888-ad7d-4ec3dd8cdcf6"
+                                        "concept": "167011AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                     },
                                     {
                                         "id": "actions",
@@ -304,7 +294,7 @@
                                 "tabName": "death",
                                 "headerTitle": "death",
                                 "displayText": "death",
-                                "encounterType": "15272be5-ae9c-4278-a303-4b8907eae73b",
+                                "encounterType": "111c2104-991d-4b58-a30e-ce84bb275534",
                                 "columns": [
                                     {
                                         "id": "deathDate",
@@ -315,7 +305,7 @@
                                     {
                                         "id": "deathCause",
                                         "title": "causeOfDeath",
-                                        "concept": "ef973f1f-557f-4620-acf5-9c4c18bf1eda"
+                                        "concept": "1599AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                     },
                                     {
                                         "id": "specificDeathCause",
@@ -358,7 +348,6 @@
                             "en": {
                                 "hIVEnrolment": "HIV Enrollment",
                                 "enrollment/Re-enrollmentDate": "Enrollment/Re-enrollment Date",
-                                "patientTypeAtEnrollment": "Patient Type at Enrollment",
                                 "dateConfirmedHIVPositive": "Date confirmed HIV+",
                                 "entryPointTitle": "Entry Point",
                                 "populationCategoryTitle": "Population Category",
@@ -392,7 +381,6 @@
                             "fr": {
                                 "hIVEnrolment": "Inscription au VIH",
                                 "enrollment/Re-enrollmentDate": "Date d'inscription/réinscription",
-                                "patientTypeAtEnrollment": "Type de patient à l'inscription",
                                 "dateConfirmedHIVPositive": "Date confirmée VIH+",
                                 "entryPointTitle": "Point d'entrée",
                                 "populationCategoryTitle": "Catégorie de population",
