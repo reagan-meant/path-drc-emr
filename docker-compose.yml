@@ -14,8 +14,7 @@ services:
     environment:
       SPA_PATH: /openmrs/spa
       API_URL: /openmrs
-      SPA_CONFIG_URLS: /openmrs/spa/config-core_demo.json,/openmrs/spa/patient-chart-dashboard.json,/openmrs/spa/clinical-visits.json,/openmrs/spa/general-counselling.json,/openmrs/spa/partner-notification.json,/openmrs/spa/patient-summary.json,/openmrs/spa/program-management.json
-      SPA_DEFAULT_LOCALE: fr
+      SPA_CONFIG_URLS: /openmrs/spa/openmrs-config.json
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost/"]
       timeout: 5s
