@@ -5,6 +5,7 @@
       "src": "${openmrsSpaBase}/nav-logo.png",
       "alt": "Logo"
     },
+    "visitAttributeTypes": [],
     "restrictByVisitLocationTag": true,
     "extensionSlots": {
       "action-menu-patient-chart-items-slot": {
