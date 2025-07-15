@@ -29,6 +29,13 @@
                     "dashboard#hct-general-counselling",
                     "dashboard#hct-partner-notification"
                 ],
+                "order": [
+                    "dashboard#hct-patient-summary",
+                    "dashboard#hct-program-management",
+                    "dashboard#hct-clinical-visits",
+                    "dashboard#hct-general-counselling",
+                    "dashboard#hct-partner-notification"
+                ],
                 "configure": {
                     "dashboard#hct-patient-summary": {
                         "title": "patientSummary",
