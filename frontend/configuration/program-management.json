@@ -103,6 +103,11 @@
                                         "concept": "164515AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                     },
                                     {
+                                        "id": "regimen",
+                                        "title": "regimenTitle",
+                                        "concept": "164432AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                                    },
+                                    {
                                         "id": "reason",
                                         "title": "reasonTitle",
                                         "conceptMappings": [
@@ -152,14 +157,9 @@
                                         "concept": "160753AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                     },
                                     {
-                                        "id": "dsdStatus",
-                                        "title": "status",
-                                        "concept": "8742967d-8107-4cbb-a17e-9a8c7f624673"
-                                    },
-                                    {
                                         "id": "dsdModel",
-                                        "title": "dSDModelTitle",
-                                        "concept": "52824cbe-0e4d-4c18-8179-80b5799f34ed"
+                                        "title": "dsdModelTitle",
+                                        "concept": "166448AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                     },
                                     {
                                         "id": "actions",
@@ -310,12 +310,7 @@
                                     {
                                         "id": "specificDeathCause",
                                         "title": "specificCauseOfDeath",
-                                        "concept": "e329cdf4-4eeb-4821-85ec-80ec4b503de0"
-                                    },
-                                    {
-                                        "id": "regimenInitiated",
-                                        "title": "regimenLine",
-                                        "concept": "164515AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                                        "concept": "efd206db-ed68-4ac3-8916-da524f029643"
                                     },
                                     {
                                         "id": "actions",
@@ -359,7 +354,6 @@
                                 "reasonTitle": "Reason",
                                 "serviceDeliveryModel": "Service Delivery Model",
                                 "dsdModelTitle": "DSD Model",
-                                "status": "Status",
                                 "transferOut": "Transfer Out",
                                 "transferOutDateTitle": "Transfer Out Date",
                                 "visitDateTitle": "Visit Date",
@@ -392,7 +386,6 @@
                                 "reasonTitle": "Raison",
                                 "serviceDeliveryModel": "Modèle de prestation de services",
                                 "dsdModelTitle": "Modèle DSD",
-                                "status": "Statut",
                                 "transferOut": "Transfert",
                                 "transferOutDateTitle": "Date de transfert",
                                 "visitDateTitle": "Date de visite",
