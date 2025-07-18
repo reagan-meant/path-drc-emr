@@ -30,9 +30,9 @@
                                         "title": "currentRegimenTitle",
                                         "hasSummary": true,
                                         "encounterType": "74bf4fe6-8fdb-4228-be39-680a93a9cf6d",
-                                        "concept": "dfbe256e-30ba-4033-837a-2e8477f2e7cd",
+                                        "concept": "164515AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                                         "summaryConcept": {
-                                            "primaryConcept": "164515AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                                            "primaryConcept": "164432AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                         }
                                     },
                                     {
@@ -40,20 +40,17 @@
                                         "title": "dsdModelTitle",
                                         "hasSummary": true,
                                         "encounterType": "62ee5922-a229-48d3-a1da-875c1ffa9436",
-                                        "concept": "166448AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                                        "summaryConcept": {
-                                            "primaryConcept": "166448AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-                                        }
+                                        "concept": "166448AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                                     },
                                     {
                                         "id": "populationType",
                                         "title": "populationTypeTitle",
                                         "encounterType": "7e54cd64-f9c3-11eb-8e6a-57478ce139b0",
-                                        "concept": "166432AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                                        "concept": "746737c0-4201-4d7f-b580-816e36dc425a",
                                         "hasSummary": true,
                                         "summaryConcept": {
                                             "primaryConcept": "166433AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                                            "secondaryConcept": "2bf14240-b2b2-42b2-8cf3-b5f8a0cb7764"
+                                            "secondaryConcept": "d3d4ae96-8c8a-43db-a9dc-dac951f5dcb3"
                                         }
                                     }
                                 ]
