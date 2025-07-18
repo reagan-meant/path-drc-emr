@@ -1,7 +1,6 @@
-# OpenMRS 3.0 Reference Application
+# PATH DRC EMR
 
-This project holds the build configuration for the OpenMRS 3.0 reference application, found on
-https://dev3.openmrs.org and https://o3.openmrs.org.
+This project holds the build configuration for the PATH DRC EMR MVP application, found on https://om.rs/drc, built on the community's reference application EMR "OpenMRS 3.0".
 
 ## Quick start
 
