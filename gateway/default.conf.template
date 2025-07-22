@@ -86,6 +86,7 @@ server {
   }
 
   location /openmrs {
+    add_header Cache-Control "no-cache, must-revalidate";
     proxy_pass http://backend;
   }
 
