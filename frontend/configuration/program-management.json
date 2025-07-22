@@ -310,7 +310,12 @@
                                     {
                                         "id": "specificDeathCause",
                                         "title": "specificCauseOfDeath",
-                                        "concept": "efd206db-ed68-4ac3-8916-da524f029643"
+                                        "multipleConcepts": [
+                                            "efd206db-ed68-4ac3-8916-da524f029643",
+                                            "1c06de20-fbc0-4d42-a638-f273e5db2146",
+                                            "162574AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                                        ],
+                                        "useMultipleObs": true
                                     },
                                     {
                                         "id": "actions",
