@@ -194,12 +194,6 @@
                                 "encounterType": "3044916a-7e5f-478b-9091-803233f27f91",
                                 "columns": [
                                     {
-                                        "id": "visitDate",
-                                        "title": "visitDateTitle",
-                                        "isDate": true,
-                                        "type": "visitDate"
-                                    },
-                                    {
                                         "id": "receivingFacility",
                                         "title": "receivingFacilityTitle",
                                         "concept": "162724AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
