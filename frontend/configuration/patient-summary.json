@@ -65,7 +65,7 @@
                                         "concept": "856AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                                         "hasSummary": true,
                                         "summaryConcept": {
-                                            "primaryConcept": "163724AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                                            "type": "encounterDatetime",
                                             "isDate": true
                                         }
                                     },
