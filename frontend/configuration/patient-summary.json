@@ -61,8 +61,8 @@
                                     {
                                         "id": "viralLoad",
                                         "title": "viralLoadTitle",
-                                        "encounterType": "3596fafb-6f6f-4396-8c87-6e63a0f1bd71",
-                                        "concept": "1305AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                                        "encounterType": "29c02aff-9a93-46c9-bf6f-48b552fcb1fa",
+                                        "concept": "856AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                                         "hasSummary": true,
                                         "summaryConcept": {
                                             "primaryConcept": "163724AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -73,10 +73,10 @@
                                         "id": "lastCD4Count",
                                         "title": "lastCD4CountTitle",
                                         "hasSummary": true,
-                                        "encounterType": "3596fafb-6f6f-4396-8c87-6e63a0f1bd71",
+                                        "encounterType": "29c02aff-9a93-46c9-bf6f-48b552fcb1fa",
                                         "concept": "5497AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                                         "summaryConcept": {
-                                            "primaryConcept": "163724AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                                            "type": "encounterDatetime",
                                             "isDate": true
                                         }
                                     }
